@@ -1,6 +1,6 @@
 # DarkMatter
 
-<h2>Download Latest Versions of DarkMatter Plugins For WordPress</h2>
+<h2>Download Latest Version of DarkMatter Plugins Bundle For WordPress</h2>
 <h4>Newest:</h4>
 <strong>DarkMatter Version 1.0.1 Plugins For WordPress (Plugin Bundle):</strong>
 <p>This will install the Latest Version Bundle.
