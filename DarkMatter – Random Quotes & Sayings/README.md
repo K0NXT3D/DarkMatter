@@ -1,3 +1,3 @@
-Version 1.0.0
-Updates in progress, but not for immediate release.
-File structure and organizaton for future plugins / main dir to edit.
+Version 1.0.0<br>
+Updates in progress, but not for immediate release.<br>
+File structure and organizaton for future plugins / main dir to edit.<br>
